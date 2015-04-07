@@ -7,7 +7,7 @@ Requirements:
 2) A tumblr API consumer and secret key, which you can get here: https://www.tumblr.com/oauth/apps
 
 Usage:
-Enter "python tumblr_wordle.py -b <blog> -c <conusmer key> -s <secret key>"
+Enter "python tumblr_wordle.py -b \<blog\> -c \<conusmer key\> -s \<secret key\>"
 
-where you replace <blog> with the username to get, and <consumer key> with the consumer key and <secret key> with the secret key.
+where you replace \<blog\> with the username to get, and \<consumer key\> with the consumer key and \<secret key\> with the secret key.
 When complete, it will create a text file called "<blog>.txt", which you can copy and enter on http://www.wordle.net/create.
