@@ -21,7 +21,7 @@ Given the output of tumblr_wordle, this code produces textfiles with the most fr
 1) nltk ("sudo pip install -U nltk")   
 2) unidecode (https://pypi.python.org/pypi/Unidecode)  
 
-Usage:  
+*Usage:*  
 Enter "python ngrams.py -f \<filename\>"  
 
 Just input the filename.
