@@ -1,4 +1,4 @@
-## tumblr_wordle by Jason Goodman
+## tumblr_wordle
 ## Spits out a text file containing the body of every non-reblogged text post 
 
 from tumblpy import Tumblpy
